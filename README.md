@@ -25,3 +25,12 @@ git clone https://github.com/yourusername/sentiment-analysis-x-comments.git
 cd sentiment-analysis-x-comments
 
 2. run main.py
+
+### Output
+
+![image](https://github.com/user-attachments/assets/59fe2bfb-e079-4f20-8dac-8908ec4e5c7c)
+
+### CSV file
+
+![image](https://github.com/user-attachments/assets/08e58ad0-aff9-44c9-8e15-f2ecc0b8608d)
+
