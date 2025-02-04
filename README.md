@@ -23,4 +23,5 @@ pip install pandas ntscraper boto3 langchain
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis-x-comments.git
 cd sentiment-analysis-x-comments
-```
+
+2. run main.py
